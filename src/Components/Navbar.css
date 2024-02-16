@@ -1,0 +1,29 @@
+.nav{
+/* background-color: #D0B8AC    ; */
+color: black;
+width: 100%;
+display: flex;
+padding: 4px 10px;
+align-items:center ;
+justify-content: space-between;
+
+
+}
+.links li{
+    list-style: none;
+
+  }
+.left{
+    display: flex;
+    align-items: center;
+}
+.left ul{
+    margin: 0px 4px;
+}
+.right{
+    display: flex;
+    align-items: center;
+}
+.App-logo{
+    height: 30px;
+}
